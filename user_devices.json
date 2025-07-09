@@ -2,5 +2,9 @@
   "USERNAME": {
     "deviceId": "DEVICE_ID_FROM_BROWSER_1",
     "expiresAt": 1999999999999
+  },
+  "Sanjay": {
+    "deviceId": "4f85d642-ad34-45ca-b0a1-50302a4d5737",
+    "expiresAt": 1752164224823
   }
 }
