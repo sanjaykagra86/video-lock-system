@@ -1,6 +1,6 @@
 {
   "USERNAME": {
     "deviceId": "DEVICE_ID_FROM_BROWSER_1",
-    "expiresAt": FUTURE_TIMESTAMP
+    "expiresAt": 1999999999999
   }
 }
