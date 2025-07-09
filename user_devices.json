@@ -1,6 +1,6 @@
 {
-  "Sanjay": {
-    "deviceId": "964c8b15-b0a1-4bfb-91e8-24868240d323",
-    "expiresAt": 1752163423951
+  "USERNAME": {
+    "deviceId": "DEVICE_ID_FROM_BROWSER_1",
+    "expiresAt": FUTURE_TIMESTAMP
   }
 }
